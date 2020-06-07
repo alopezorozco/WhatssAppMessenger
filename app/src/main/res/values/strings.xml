@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatsAppMessage</string>
+    <string name="btn_ok">Enviar Mensaje</string>
+</resources>
